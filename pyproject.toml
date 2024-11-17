@@ -29,5 +29,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/uniras/PyScriptMagic"
-Repository = "https://github.com/uniras/PyScriptMagic"
+Homepage = "https://github.com/uniras/jsondict"
+Repository = "https://github.com/uniras/jsondict"

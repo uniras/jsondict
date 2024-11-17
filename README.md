@@ -1,25 +1,25 @@
-# jsondict
+# jsonicdict
 
 ## 概要
 
-jsondictは、PythonのListやDict等をJSONと全く同じ表記で記述できるようにするためのライブラリです。
+jsonicdictは、PythonのListやDict等をJSONと全く同じ表記で記述できるようにするためのライブラリです。
 
 ## インストール
 
 ```bash
-pip install jsondict
+pip install jsonicdict
 ```
 
 ## 使い方
 
 ```python
-from jsondict import true, false, null
+from jsonicdict import true, false, null
 ```
 
 ## サンプル
 
 ```python
-from jsondict import true, false, null
+from jsonicdict import true, false, null
 
 objnull = null
 objfalse = false

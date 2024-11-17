@@ -1,3 +1,1 @@
-true = True
-false = False
-null = None
+from .jsonicdict import true, false, null  # noqa: F401

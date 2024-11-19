@@ -13,13 +13,19 @@ pip install jsonicdict
 ## 使い方
 
 ```python
+import jsonicdict
+```
+
+または
+
+```python
 from jsonicdict import true, false, null
 ```
 
 ## サンプル
 
 ```python
-from jsonicdict import true, false, null
+import jsonicdict
 
 objnull = null
 objfalse = false
